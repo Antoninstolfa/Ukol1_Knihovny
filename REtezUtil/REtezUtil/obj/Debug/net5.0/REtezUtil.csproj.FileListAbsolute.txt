@@ -1,0 +1,12 @@
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\bin\Debug\net5.0\REtezUtil.deps.json
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\bin\Debug\net5.0\REtezUtil.dll
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\bin\Debug\net5.0\ref\REtezUtil.dll
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\bin\Debug\net5.0\REtezUtil.pdb
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\obj\Debug\net5.0\REtezUtil.csproj.AssemblyReference.cache
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\obj\Debug\net5.0\REtezUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\obj\Debug\net5.0\REtezUtil.AssemblyInfoInputs.cache
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\obj\Debug\net5.0\REtezUtil.AssemblyInfo.cs
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\obj\Debug\net5.0\REtezUtil.csproj.CoreCompileInputs.cache
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\obj\Debug\net5.0\REtezUtil.dll
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\obj\Debug\net5.0\ref\REtezUtil.dll
+C:\Users\Nadupaná mašina\source\repos\REtezUtil\REtezUtil\obj\Debug\net5.0\REtezUtil.pdb

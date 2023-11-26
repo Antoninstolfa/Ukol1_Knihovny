@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ukol_Knihovny1/1.0.0": {
+        "dependencies": {
+          "REtezUtil": "1.0.0"
+        },
+        "runtime": {
+          "Ukol_Knihovny1.dll": {}
+        }
+      },
+      "REtezUtil/1.0.0": {
+        "runtime": {
+          "REtezUtil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ukol_Knihovny1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "REtezUtil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

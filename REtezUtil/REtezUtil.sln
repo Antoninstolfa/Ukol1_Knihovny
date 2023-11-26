@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REtezUtil", "REtezUtil\REtezUtil.csproj", "{7CDE452E-EFB8-4B61-A325-48C005C09CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ukol_Knihovny1", "Ukol_Knihovny1\Ukol_Knihovny1.csproj", "{2811B57B-1FE5-44CC-9977-381AAB9CC79F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CDE452E-EFB8-4B61-A325-48C005C09CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDE452E-EFB8-4B61-A325-48C005C09CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDE452E-EFB8-4B61-A325-48C005C09CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDE452E-EFB8-4B61-A325-48C005C09CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2811B57B-1FE5-44CC-9977-381AAB9CC79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2811B57B-1FE5-44CC-9977-381AAB9CC79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2811B57B-1FE5-44CC-9977-381AAB9CC79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2811B57B-1FE5-44CC-9977-381AAB9CC79F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48CE427A-3495-469B-9E64-94B3FB58B2F0}
+	EndGlobalSection
+EndGlobal
